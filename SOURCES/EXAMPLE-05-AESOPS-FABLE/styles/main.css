@@ -1,0 +1,10 @@
+body {
+  background: url('images/bg-section.jpg') top center no-repeat;
+  background-size: cover;
+}
+
+section {
+  max-width : 480px;
+  margin : 0 auto;
+  min-height: 100vh;
+}

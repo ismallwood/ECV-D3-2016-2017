@@ -1,0 +1,71 @@
+body {
+
+}
+
+section {
+  padding : 22px;
+  min-height : 90vh;
+}
+
+.content {
+  max-width: 960px;
+  margin : 0 auto;
+  padding : 22px;
+}
+
+.section01 {
+ background: #FFFF00;
+}
+
+.section02 {
+ background: url('images/background-tile.png');
+}
+
+.section03 {
+
+}
+
+.section04 {
+ background: url('images/image01.jpg') top center no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+.section05 {
+  margin-top : 42px;
+  min-height : 10vh;
+  border-top : 4px solid #000;
+  border-bottom : 4px solid #000;
+}
+
+.section05 p {
+  text-decoration: underline;
+}
+
+.section06 img {
+  width : 100%;
+}
+
+.section07 {
+  background: url('images/image02.jpg') top center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.section07 .content {
+  background: rgba(255, 255, 255, 0.8);
+}
+
+@media (max-width: 600px) {
+  .section01 {
+    background : blue;
+  }
+  .section08 {
+    background : red;
+  }
+  .section08 h2 {
+    color : #fff;
+    font-size : 12px;
+    font-weight : bold;
+  }
+}
