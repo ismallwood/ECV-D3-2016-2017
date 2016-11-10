@@ -1,0 +1,23 @@
+h1 {
+  font-size: 60px;
+  font-family: 'Anton', sans-serif;
+  color: #4e4e4e;
+  text-align: center;
+
+}
+
+h2 {
+  font-size: 40px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #ffffff;
+  text-align: center;
+
+}
+
+p {
+  font-size: 20px;
+font-family: 'Abhaya Libre', serif;
+color: #ffffff;
+text-align: justify
+
+}

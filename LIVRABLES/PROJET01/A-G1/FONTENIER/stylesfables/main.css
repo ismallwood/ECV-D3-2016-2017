@@ -1,0 +1,13 @@
+body{
+  background: #8BC7E0 url('hareandtortoisenb.jpg') top center;
+  background-size: cover;
+  color: #2E2963;
+}
+
+section {
+  max-width: 200px;
+  margin-top: 0px;
+  margin-left: 40px;
+  background: rgba(25, 25, 25, 0.8);;
+  padding: 40px;
+}

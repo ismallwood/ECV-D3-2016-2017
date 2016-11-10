@@ -1,0 +1,13 @@
+body {
+background: #FBD6F1 url("image02.jpg") top center;
+background-size: cover;
+color: #717CB2;
+}
+
+
+section {
+  max-width : 620px;
+  margin : 0 auto;
+  background: rgba(255, 255, 255, 0.5);
+  padding : 42px;
+}

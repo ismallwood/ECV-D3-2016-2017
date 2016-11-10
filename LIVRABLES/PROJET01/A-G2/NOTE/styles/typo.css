@@ -1,0 +1,19 @@
+h1 {
+  color : #7F2505;
+  font-size: 100px;
+font-family: 'Amatic SC', cursive;
+font-weight: 300;
+background: #1D1D1B;
+padding : 30px 20px 30px 20px
+border-top : 10px solid blue;
+}
+h2 {
+  color : #7F2505;
+  font-size: 100px;
+  font-family: 'Amatic SC', cursive;
+}
+p {
+  color : #1D1D1B;
+  font-size: 25px;
+  font-family: 'Just Another Hand', cursive;
+}

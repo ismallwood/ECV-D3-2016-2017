@@ -1,0 +1,62 @@
+body {
+background: #f4f4f4;
+background-attachment: fixed;
+background-size: contain;
+color: #ffffff;
+margin: 0;
+padding: 0;
+}
+
+header {
+	background-image: url('fondbleu.jpg');
+  background-size: contain;
+	background-attachment: fixed;
+	background-position: top, center;
+	/*background-color: #ffbf00;*/
+	padding: 10px 0;
+	opacity: 1;
+}
+
+nav {
+	text-align: right;
+	padding: 10px 0;
+	margin-bottom: 30px;
+
+}
+
+nav li a {
+	text-decoration: none;
+	color: #e5d1a5;
+}
+
+nav li a:hover {
+	color: #ffffff;
+	border-bottom: 4px solid #e5d1a5;
+	padding: 3px;
+}
+
+ul {
+	margin-right: 20px;
+}
+
+li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+section {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  /*background: rgba(255, 255, 255, 0.8);*/
+  padding: 22px;
+}
+
+h1 {
+  margin-bottom: 1px;
+}
+
+h3 {
+  margin-top: 0px;
+}

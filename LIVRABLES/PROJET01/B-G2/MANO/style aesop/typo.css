@@ -1,0 +1,28 @@
+nav {
+font-family: 'Montserrat', sans-serif;
+  color : #e5d1a5;
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+  color : #e5d1a5;
+  font-size: 52px;
+  text-align: center;
+  text-shadow : 1px 1px 3px rgb(0,0,0)
+
+}
+
+h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color : #ffffff;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+p {
+  font-family: 'Cormorant Garamond', serif;
+  color : #8C8C8C;
+  font-size: 20px;
+  text-align:justify;
+}

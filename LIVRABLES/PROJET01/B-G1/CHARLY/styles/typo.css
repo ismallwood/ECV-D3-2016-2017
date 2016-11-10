@@ -1,0 +1,70 @@
+h1 {
+  font-size: 70px;
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  margin-top: 340px;
+  border : 20px solid white  ; background-color : white ; width : 100%;
+  opacity: 0.3;
+
+}
+
+h2 {
+  font-size: 30px;
+    color: white;
+font-family: 'Montserrat', sans-serif;
+text-align:justify;
+margin-top: 340px;
+
+}
+
+h3 {
+  font-size: 30px;
+    color: black;
+font-family: 'Slabo 27px', serif;
+text-align:justify;
+
+
+
+border : 20px solid white  ; background-color : white ; width : 100%;
+opacity: 0.5;
+}
+
+h4 {
+  font-size: 30px;
+    color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align:justify;
+  margin-bottom: 230px;
+
+
+
+}
+
+h5 {
+  font-size: 20px;
+    color: white;
+  font-family: 'Lobster', cursive;
+  text-align:justify;
+  margin-top: 340px;
+}
+
+h6 {
+  font-size: 20px;
+    color: white;
+  font-family: 'Lobster', cursive;
+text-align:justify;
+margin-top: 340px;
+
+
+
+}
+
+p {
+  font-size: 20px;
+    color: white;
+font-family: 'Fjalla One', sans-serif;
+text-align:justify;
+margin-top: 340px;
+
+}

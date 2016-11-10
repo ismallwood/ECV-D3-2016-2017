@@ -1,0 +1,32 @@
+h1 {
+font-family: 'Pacifico', cursive;
+  color : #90C3D4;
+  font-size : 90px;
+  text-align: center;
+}
+
+h2 {
+font-family: 'Raleway', sans-serif;
+  color : #D3BCD8;
+  font-size : 70px;
+  text-align: center;
+
+  h2
+  {
+      text-align: center;
+  }
+}
+
+h3 {
+font-family: 'Raleway', sans-serif;
+  color : #90C3D4;
+  font-size : 50px;
+  text-align: center;
+}
+
+h4 {
+font-family: 'Raleway', sans-serif;
+  color : #white;
+  font-size : 50px;
+  text-align: center;
+}

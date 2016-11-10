@@ -1,0 +1,13 @@
+body {
+  background-image:url("ciel.jpg");
+  background-attachment: fixed;
+  background-position: bottom;
+}
+
+section {
+  max-width: 640px;
+  margin-left : auto;
+  margin-right :auto;
+  background-color: transparent;
+  padding : 10px;
+}

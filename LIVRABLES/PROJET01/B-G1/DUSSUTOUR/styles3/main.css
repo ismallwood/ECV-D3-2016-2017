@@ -1,0 +1,16 @@
+body {
+background: #ffe8ea url('image.jpg') top center;
+color :#042966;
+}
+
+section {
+  max-width : 640px;
+  margin-left : auto;
+  margin-right : auto;
+  background: rgba(255, 255, 255, 0.5);
+  padding : 22px;
+  }
+
+.columns{
+  columns: 2;
+}

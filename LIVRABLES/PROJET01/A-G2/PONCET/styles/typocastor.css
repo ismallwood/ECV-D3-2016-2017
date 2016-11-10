@@ -1,0 +1,27 @@
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: lighter;
+  color : #ffffff;
+  text-align: center;
+  font-size : 12px;
+}
+
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color : #ffffff;
+  font-size : 50px;
+  text-align: center;
+  Line-Height: 2pt;
+
+}
+
+
+
+p {
+  font-family: 'Cormorant Garamond', serif;
+  color: #ffffff;
+  font-size : 15px;
+  text-align: justify;
+  text-justify: inter-word;
+}

@@ -1,0 +1,21 @@
+h1{
+  font-size: 60px;
+  font-family: 'Chonburi', cursive;
+  font-stretch: extra-expanded;;
+  text-align: center;
+  font-stretch: expanded;
+}
+
+h2{
+  line-height: 30px;
+  text-align: center;
+  font-size: 15px;
+  font-family: helvetica;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #1FFED8;
+}

@@ -1,0 +1,13 @@
+body {
+  color: #0000f;
+  background-color: #CFE8E3;
+  }
+
+section {
+  max-width : 480px;
+  margin : 0 auto;
+  background: rgba(255, 255, 255,0,5);
+  background: #FFFFFF url('fondweb.jpg') bottom center;
+  background-size: cover;
+  padding-bottom : 120px;
+}

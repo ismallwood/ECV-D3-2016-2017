@@ -1,0 +1,19 @@
+body{
+  background : #efefef url('images01.jpg') top center;
+
+  color : #ffffdf;
+}
+
+section{
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(300, 300, 300, 0.3);
+  padding : 50px;
+
+}
+p{
+  
+  color: #000000;
+
+}

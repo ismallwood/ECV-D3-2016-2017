@@ -1,0 +1,14 @@
+body {
+  background : #BBBEBF url('dark-forest.jpg ') top center no-repeat ;
+  background-size: auto;
+
+}
+
+
+section{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 5px;
+}

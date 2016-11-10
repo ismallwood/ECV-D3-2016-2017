@@ -1,0 +1,22 @@
+body {
+...
+background-image: url("plume.jpg");
+background-attachment: fixed;
+background-size: cover;
+background-position: center center;
+}
+
+#background_opacity {
+position: fixed;
+z-index: -10;
+top: 0; left: 0; right: 0; bottom: 0;
+background-color: rgba(255, 255, 255, 0.5);
+}
+
+section {
+  max-width: 620px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.4);
+  padding : 42px;
+  color: #000000
+}

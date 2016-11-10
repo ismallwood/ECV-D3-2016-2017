@@ -1,0 +1,12 @@
+body {
+  background-image: url("background-2560x1600.jpg");
+}
+
+section {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  max-width: 500px;
+}

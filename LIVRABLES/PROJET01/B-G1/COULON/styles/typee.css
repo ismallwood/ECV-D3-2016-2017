@@ -1,0 +1,29 @@
+h1{
+  font-size: 40px;
+  font-family: 'Megrim', cursive;
+  text-align: center;
+  color: #ffffff;
+  max-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid; color: #ffffff; padding: 20px;
+}
+
+h2{
+  font-size: 64px;
+  font-family: 'futura', sans-serif;
+  text-align: center;
+}
+
+p{
+font-size: 18px;
+font-family: 'futura', sans-serif;
+text-align: right;
+padding-top: 10px;
+}
+
+h4{
+  font-size: 23px;
+  font-family: 'futura', sans-serif;
+  padding-top: 100px;
+}
