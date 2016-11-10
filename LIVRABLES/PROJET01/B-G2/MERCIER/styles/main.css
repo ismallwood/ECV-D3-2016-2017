@@ -1,0 +1,10 @@
+body {
+  background: #BBBEBF url('marbre.jpg');
+  color: #ffffff
+}
+section {
+  max-width: 640px;
+margin-left: auto;
+  margin-right: auto;
+  padding : 40px;
+}

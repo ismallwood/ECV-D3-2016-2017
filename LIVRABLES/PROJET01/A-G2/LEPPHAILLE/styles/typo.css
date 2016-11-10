@@ -1,0 +1,23 @@
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color : #ef9e89;
+  font-size : 50px;
+}
+
+h2 {
+  font-family: 'Domine', serif;
+  color : #001689;
+  font-size : 22px;
+}
+
+h3 {
+  font-family: 'Domine', serif;
+  color : #000000;
+  font-size : 18px;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+  color :currentColor;
+  font-size : 15px;
+}

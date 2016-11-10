@@ -1,0 +1,19 @@
+h1 {
+color :#2f5591 ;
+font-size : 64px;
+font-family: 'Asul', sans-serif;
+font-weight: bold;
+}
+
+h5 {
+color : #2b57b5;
+font-size : 30px;
+font-family: 'BenchNine', sans-serif;
+}
+
+p {
+  color:#152e33
+text-align: justify;
+font-family: 'BenchNine', sans-serif;
+font-size: 20px;
+}

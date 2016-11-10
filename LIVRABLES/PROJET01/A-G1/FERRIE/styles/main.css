@@ -1,0 +1,12 @@
+body {
+  background: #000000 url('loup2.jpg') top center;
+  background-size: cover;
+  color: #000000;
+}
+
+section {
+  max-width: 350px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 42px;
+}

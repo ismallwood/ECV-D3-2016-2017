@@ -1,0 +1,18 @@
+body {
+  background: #efefef url('capturebbb1.jpg')top center no-repeat;
+  color : #000f04;
+}
+
+section {
+  max-width : 640px;
+  margin-left: auto;
+  margin-right: auto;
+background: rgba(255, 255, 255, 0,7) ;
+padding : 22px
+}
+
+h1 {
+  font-family: ""
+  font-size: 60px;
+  background-color: #5397A3 ;
+}

@@ -1,0 +1,37 @@
+body {
+  color:black;
+  background: url(image/huhu.gif) center top no-repeat;
+  background-size: cover;
+  padding: 79px;
+  margin: 0 auto;
+}
+
+
+
+.section01{
+  background:#dbb315;
+  width : 100%;
+  max width: 420px;
+  min-width: 309px;
+  float : float;
+  margin-right: 100px
+}
+
+.section02{
+  background:#dbb315;
+  width : 20%;
+  max width: 90px;
+  min-width: 39px;
+  float : float;
+  margin-right: 80px
+}
+
+
+@media (max-width:600px) {
+  .section01 {
+    background: #337c78
+  }
+  @media (max-width:600px) {
+    .section02 {
+      background: #dbb315;
+    }

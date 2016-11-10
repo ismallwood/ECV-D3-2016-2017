@@ -1,0 +1,29 @@
+body {
+  background: #8BC7E0 url("image08.jpg") top center;
+  background-attachment: fixed;
+  color : #000000;
+}
+
+
+section {
+  max-width: 400px;
+  margin : 0 auto;
+  background: center rgba(255, 255, 255, 0.80);
+  padding : 20px;
+}
+
+.test1 {
+  background: #f2e8c9;
+}
+
+.test2 {
+  background: #f2ef91;
+}
+
+.test3 {
+  background: #d6d2c7;
+}
+
+.test4 {
+  background: #e0b731;
+}

@@ -1,0 +1,23 @@
+body{
+  background:#efefef images=('sun.jpg') top center no-repeat;
+  color: #000f00;
+}
+
+section {
+  max-width : 640px;
+  margin-left : auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 22px;
+}
+
+strong {
+  color : red;
+}
+
+h1 {
+  background-color: #235235;
+  margin-left : auto;
+  margin-right: auto;
+  margin-bottom: inherit;
+}

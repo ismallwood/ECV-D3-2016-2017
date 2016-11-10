@@ -1,0 +1,22 @@
+body {
+ background: #efefef url('bi3.jpg')top center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+section {
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 40px
+}
+
+.conclusion {
+  font-size: 200%;
+  text-align: center;
+  text-decoration:overline;;
+}

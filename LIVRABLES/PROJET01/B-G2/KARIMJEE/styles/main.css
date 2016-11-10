@@ -1,0 +1,13 @@
+body{
+background : #BBBEBF url('montagne01.jpg') top center no-repeat;
+background-size: cover;
+color : #161517;
+}
+
+section {
+ max-width: 640px;
+ margin-left : auto;
+ margin-right : auto;
+ background: rgba(255, 225, 225, 0.5);
+ padding : 22px;
+}

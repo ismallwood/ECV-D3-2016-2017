@@ -1,0 +1,23 @@
+h1 {
+ font-family: 'Amatic SC', cursive;
+ color : #6a574b;
+ font-size : 100px;
+ }
+
+ h2 {
+  color : #6a574b;
+  font-size : 60px;
+  font-family: 'Quicksand', cursive;
+  }
+
+  p {
+    font-family: 'Quicksand', sans-serif;
+   }
+
+   p: :first-letter {
+     font-family:'Quicksand';
+     font-size:3.5em;
+     padding-right: 0.2em;
+     float:left;
+     color : #6a574b;
+     }

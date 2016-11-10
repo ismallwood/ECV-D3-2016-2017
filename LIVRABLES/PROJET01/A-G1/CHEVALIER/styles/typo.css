@@ -1,0 +1,23 @@
+h1 {
+  color : #ad2438;
+  font-size : 50px;
+  font-family: 'Anton', sans-serif;
+}
+
+h2 {
+font-family: 'Open Sans Condensed', sans-serif;
+  color : #ad2438;
+  font-size : 40px;
+}
+
+h3 {
+   color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+   font-size : 20px
+ }
+
+
+p {
+font-family: 'Open Sans Condensed', sans-serif;
+  color : #000000;
+}

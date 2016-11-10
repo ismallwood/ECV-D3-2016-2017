@@ -1,0 +1,17 @@
+body {
+  background: url('brouillard1.jpg') top center;
+  background-size: cover;
+}
+
+section {
+
+  max-width: 450px;
+  padding: 10px;
+}
+
+element
+{
+  position: relative;
+   left: 160px;
+   top: 30px;
+}

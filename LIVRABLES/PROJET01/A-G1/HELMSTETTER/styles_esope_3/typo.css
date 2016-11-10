@@ -1,0 +1,55 @@
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  font-size: 35px;
+
+  /* font-size: 10vw = taille font en 10% du viewport */
+}
+
+
+
+  h1 span {
+    font-family: 'Gentium Basic', serif;
+    font-style: italic;
+    font-weight: normal;
+    }
+
+
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+   text-align: center;
+}
+
+p {
+  font-family: 'Gentium Basic', serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+
+p:first-of-type:first-letter {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 45px;
+  float: left;
+  padding: 10px 10px 10px 5px;
+  color: rgba(254, 53, 0, 1);
+}
+
+
+::-moz-selection {    /* Pour firefox */
+background: blue;
+color:white;
+}
+::selection {        /* Pour les autres navigateurs*/
+background: blue;
+color: white;
+}

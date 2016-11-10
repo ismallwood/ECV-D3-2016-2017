@@ -1,0 +1,21 @@
+h1{
+  font-family: 'Oswald', sans-serif;
+font-size: 92px;
+margin-left: auto;
+margin-right: auto;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+}
+
+h3{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+
+p{
+  font-family: 'Droid Serif', serif;
+  font-size: 20px;
+}

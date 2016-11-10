@@ -1,0 +1,12 @@
+body {
+  background: #ff7f50 url('img2.jpg') top right;
+color : #000000;
+}
+
+section {
+max-width: 350px;
+margin-left : auto;
+margin-right : auto;
+background: rgba(240, 240, 240, 0.5);
+padding: 50px;
+}

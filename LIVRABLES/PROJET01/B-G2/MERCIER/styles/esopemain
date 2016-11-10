@@ -1,0 +1,14 @@
+body {
+  background: #BBBEBF url('dolphin.jpg') top center no-repeat;
+  background-size: cover;
+  color: #1f3f66
+}
+
+section {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.6);
+  padding : 22px;
+}
+s

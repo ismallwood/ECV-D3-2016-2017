@@ -1,0 +1,12 @@
+body {
+  background : #c5d1d6 url('fond.jpg') top center no-repeat;
+  background-size: cover;
+  color : #c5d1d6;
+}
+section {
+  max-width: 640px;
+  margin-left : auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255);
+  padding: 400px
+}

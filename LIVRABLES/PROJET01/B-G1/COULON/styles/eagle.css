@@ -1,0 +1,26 @@
+section {
+  max-width : 700px;
+  margin-left : auto;
+  margin-right : auto;
+}
+
+
+body {
+  color : #ffffff;
+  background-image: url('canyon.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  -webkit-text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.columns {
+			-webkit-columns: 2;
+			-moz-columns: 2;
+			columns: 2;
+      column-gap: 40px;
+}

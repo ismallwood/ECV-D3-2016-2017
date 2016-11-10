@@ -1,0 +1,36 @@
+h1 {
+  color : #4B195C;
+  font-size :185px;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+  border-bottom:6px solid #4B195C;
+  border-top:6px solid #4B195C;
+
+
+}
+
+h2 {
+  color : #820337;
+  font-size :40px;
+  font-family: 'Dancing Script', cursive;
+  text-align:center;
+  padding:3px;
+  text-indent: 200px
+
+}
+h3 {
+  color : #820337;
+  font-size :40px;
+  font-family:  'Dancing Script', cursive;
+  text-align: center;
+  text-indent: 180px
+
+}
+
+p {
+  color : #030203;
+  font-size : 25px;
+  font-family: 'Dosis', sans-serif;
+  text-align: justify;
+  width: 580px;
+}

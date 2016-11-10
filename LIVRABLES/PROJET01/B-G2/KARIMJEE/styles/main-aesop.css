@@ -1,0 +1,17 @@
+body{
+background : #000000 url('forest.jpg') top no-repeat;
+background-size: cover;
+color : #E3B7B6;
+}
+
+section {
+ max-width: 680px;
+ margin-left: auto;
+ margin-right: auto;
+ background: rgba(255, 225, 225, 0.8);
+ padding : 22px;
+ border-width:7px;
+ border-style:dotted;
+ border-color:#4B195C;
+
+}

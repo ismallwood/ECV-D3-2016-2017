@@ -1,0 +1,28 @@
+
+
+h1 {
+ font-size:300%;
+ color: red;
+ font-weight: bold;
+ font-family:'Anton', sans-serif;
+ }
+
+
+p {
+ font-size:130%;
+ color:#337c78 ;
+ font-weight: bold;
+ font-family:'Roboto Condensed', sans-serif;
+}
+
+.section01{
+font-size:800%;
+color: white;
+font-family:'Roboto Condensed', sans-serif;
+}
+
+.section02{
+font-size:90%;
+color: white;
+font-family:'Roboto Condensed', sans-serif;
+}

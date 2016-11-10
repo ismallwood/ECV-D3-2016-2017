@@ -1,0 +1,13 @@
+body {
+  background : #e3ebf7 url('star-dust.jpg') top center no-repeat;
+  background-size: cover;
+  color : #012b47;
+}
+
+section {
+  max-width: 520px;
+  margin-left : 215px;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0);
+  padding: 22px
+}

@@ -1,0 +1,26 @@
+body{
+  background: #000000 url('lionweb.png') top center;
+  color :#ffffff;
+  width: 100%;
+  height: 100%;
+}
+
+section {
+  max-width : 640px;
+  margin-left : auto;
+  margin-right : auto ;
+  padding: 22px;
+display: inline;
+}
+
+p{
+float:right;
+margin: 0 5%;
+width : 40%;
+  }
+
+img{
+float: left;
+margin: 0 5%;
+width : 40%;
+  }

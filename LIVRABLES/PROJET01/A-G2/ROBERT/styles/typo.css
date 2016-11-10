@@ -1,0 +1,19 @@
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color : #E9C9B1;
+  font-size : 60px;
+  text-align: center;
+}
+
+h2 {
+font-family: 'Lobster', cursive;
+  color : #FFFFF;
+  font-size : 34px;
+  text-align: center;
+
+}
+p{
+  font-family: 'Poppins', sans-serif;
+  font-size : 15px;
+  text-align: justify;
+}

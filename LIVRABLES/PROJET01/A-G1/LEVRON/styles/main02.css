@@ -1,0 +1,27 @@
+body{
+background: url("lion01.jpg") top center ;
+background-size: cover;
+color: #ffffff;
+}
+
+.wrapper {
+  max-width: 400px;
+  float : right;
+}
+
+section{
+
+  width: auto;
+  background: rgba(255,255,255, 0.5);
+  padding : 20px;
+}
+
+.section1{
+  background: #3f0e00;
+  max-width: 500px;
+  min-width: 150px;
+}
+
+.section2{
+  background: rgba(63, 14, 0, 0.5);
+}

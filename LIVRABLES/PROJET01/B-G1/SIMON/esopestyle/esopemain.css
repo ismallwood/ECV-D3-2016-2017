@@ -1,0 +1,11 @@
+body {
+  background: #ffffff url('mur.jpeg') center;
+}
+
+section {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+}

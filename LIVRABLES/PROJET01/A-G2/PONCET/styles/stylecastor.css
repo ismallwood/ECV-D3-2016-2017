@@ -1,0 +1,23 @@
+body {
+  background: url("etang1000x630.jpg") top center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+section {
+  max-width: 300px;
+  margin: 90px auto;
+  margin-bottom: 15px;
+  background : rgba(255,255,255,0.17);
+  padding : 20px;
+  padding-top: 15px;
+}
+
+#arbre{
+  text-align: center;
+  opacity: 0.8;
+}
+
+#arbre img{
+  width: 80px;
+}

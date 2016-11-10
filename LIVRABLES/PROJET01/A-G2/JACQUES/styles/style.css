@@ -1,0 +1,12 @@
+body{
+  background : #8BC7E0 url('Loup-Agneau-1024x880.jpg') top center;
+  background-size: cover;
+  color : #123456;
+}
+
+section{
+  max-width: 620px;
+  margin : 0 auto;
+  background : rgba(255, 255, 255, 0.5);
+  padding: 42px;
+}

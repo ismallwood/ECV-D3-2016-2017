@@ -1,0 +1,70 @@
+body {
+  background : #000;
+  color : #b8b5b5;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size : 2em;
+}
+
+section .content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width : 1500px;
+  margin : 0 auto;
+}
+
+section a {
+  margin-bottom : 6px;
+}
+
+section img {
+  border : 2px solid #000;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    background : #b8b5b5;
+    color : #000;
+  }
+  section a {
+    width : 48%;
+  }
+  section img {
+    width : 100%;
+    border : 4px solid #000;
+  }
+}
+
+@media screen and (min-width: 729px) {
+  body {
+    background : #000;
+    color : #b8b5b5;
+  }
+  section a {
+    width : 32%;
+  }
+  section img {
+    width : 100%;
+    border : 3px solid #000;
+  }
+
+}
+
+@media screen and (min-width: 1280px) {
+  body {
+    background : #fff;
+    color : #080505;
+  }
+  section a {
+    width : 24%;
+    margin-bottom : 6px;
+  }
+
+  section img {
+    width : 100%;
+    border : 1px solid #000;
+  }
+}

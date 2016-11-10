@@ -1,0 +1,44 @@
+
+@import 'https://fonts.googleapis.com/css?family=Lobster|Noto+Serif|Raleway';
+
+
+
+
+
+
+body {
+  margin:0;
+  padding:0;
+  background: url(miel.jpg) no-repeat center fixed;
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+  margin-top: 0px;
+}
+
+
+h1 {
+  color : #cdb25b;
+  font-size: 25px;
+font-family: 'Lobster', cursive;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+h2 {
+  color : #696969;
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+
+p {
+font-family: 'Raleway', sans-serif;
+color: black;
+font-weight: normal;
+font-size: 8px;
+text-align: center;
+}
