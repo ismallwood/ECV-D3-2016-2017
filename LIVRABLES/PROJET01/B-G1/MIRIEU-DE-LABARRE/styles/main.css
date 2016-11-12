@@ -1,8 +1,6 @@
 body{
-  background: #000000 url('lionweb.png') top center;
+  background: #000000 url('lionweb.png') 100px -75% no-repeat;
   color :#ffffff;
-  width: 100%;
-  height: 100%;
 }
 
 section {
