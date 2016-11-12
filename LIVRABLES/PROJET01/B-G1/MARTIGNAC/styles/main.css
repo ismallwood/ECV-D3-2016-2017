@@ -1,0 +1,10 @@
+body {
+  background: #ff7f50 url('img2.jpg') top right;
+}
+
+section {
+max-width: 240px;
+margin-left : auto;
+margin-right : auto;
+padding: 90px;
+}
