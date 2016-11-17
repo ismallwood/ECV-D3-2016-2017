@@ -1,0 +1,18 @@
+body {
+  background: #E8E4D8 url('yeux.jpg') top center no-repeat;
+  background-size: contain;
+}
+
+section {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.5);
+  padding : 22px;
+}
+
+h2 {
+ border-width:3px;
+ border-style:double;
+ border-color:#7A3338;
+ }
