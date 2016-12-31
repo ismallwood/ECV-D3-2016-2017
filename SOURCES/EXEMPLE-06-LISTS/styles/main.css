@@ -1,0 +1,70 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+nav {
+    background: rgb(123, 128, 136);
+    padding: 24px;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    float: right;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 42px;
+    border-radius: 8px;
+}
+
+section {
+    padding: 18px;
+    font-size: 36px;
+}
+
+#favorites {
+    background: rgb(248, 153, 11);
+}
+
+#favorites ul {
+    list-style-type: none;
+}
+
+#favorites li {
+    border-bottom: 1px solid blue;
+    padding: 4px;
+}
+
+#todo {
+    background: rgb(153, 11, 248);
+}
+
+#todo ol {
+    list-style-position: inside;
+}
+
+.even {
+    background: #fff;
+}
+
+#done {}
+
+#contact {
+    padding: 42px;
+    background: rgb(11, 106, 248)
+}
