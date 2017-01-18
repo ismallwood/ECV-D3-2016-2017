@@ -1,0 +1,33 @@
+body {
+  font-size: 3em;
+}
+
+nav {
+  background: #efefef;
+  padding: 22px;
+  position: fixed;
+  top : 0;
+  right : 0;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+article {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.block {
+
+}
+
+#block01 {
+}
+
+#block02 {
+}
+
+#block03 {
+}
