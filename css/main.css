@@ -1,6 +1,15 @@
-p {
-
+h1 span {
+  float: right;
+  font-size: 3em;
+  margin-right : 12px;
 }
+
+.download-link-zip {
+  background: url('download-zip.svg') 100% 50% no-repeat;
+  padding-right : 1em;
+}
+
+
 
 .fieldset input, .fieldset textarea  {
   width : 100%;
