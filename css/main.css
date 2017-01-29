@@ -14,3 +14,27 @@ h1 span {
 .fieldset input, .fieldset textarea  {
   width : 100%;
 }
+
+section {
+    padding: 2em;
+    min-height: 15vh;
+}
+
+.delivered-section {
+  background: #797381;
+  color : #fff;
+}
+
+.delivered-section a {
+  color : #fff;
+}
+
+footer {
+  padding: 2em;
+  min-height: 15vh;
+  background: #8737fa;
+}
+
+footer a {
+  color : #fff;
+}
